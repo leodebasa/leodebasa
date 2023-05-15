@@ -28,7 +28,7 @@
   <a href = "mailto:leoganon54@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardodebasa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leodebasa&bg_color=0a0c10&color=8f2d89&line=ffae00&point=4c00ff&area=true&hide_border=true)](https://github.com/leodebasa/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leodebasa&bg_color=0a0c10&color=8f2d89&line=ffae00&point=4c00ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 </div>
  
