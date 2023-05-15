@@ -1,4 +1,4 @@
-## Opa! eu sou a Leonardo Debastiani, Desenvolvedor Web e estudante de Engenharia!
+## Opa! eu sou Leonardo Debastiani, Desenvolvedor Web e estudante de Engenharia!
 <div align="center">
   <a href="https://github.com/leodebasa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leodebasa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
