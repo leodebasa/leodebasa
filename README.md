@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=40&center=true&vCenter=true&width=1000&lines=Opa!,+Eu+Sou+Leonardo+Debastiani;Desenvolvedor+Web+e+Designer;Estudante+de+ADS!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=40&center=true&vCenter=true&width=1000&lines=Opa!,+Eu+Sou+Leonardo+Debastiani;Game+dev+e+Designer;Estudante+de+ADS!+:%29)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://github.com/leodebasa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leodebasa&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
